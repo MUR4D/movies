@@ -1,0 +1,13 @@
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.View.fMain.resources
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\ODMIN\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.View.UserControls.FavoritesView.resources
